@@ -3,7 +3,7 @@
     {
       "id": "text-box-exporter",
       "name": "Text Box Exporter",
-      "description": "Designed for making Picture Book dummies/mockups: Roundtrip editing between Affinty and your favourite text editor. Exports all the text boxes in reading order, left-to-right, top-to-bottom, to an alert prompt for easy cut/paste into your text editor.",
+      "description": "Designed for making Picture Book dummies/mockups: Roundtrip editing between the Affinty Layout persona and your favourite text editor. Exports all the text boxes in reading order, left-to-right, top-to-bottom, to an alert prompt for easy cut/paste into your text editor.",
       "version": "1.0.0",
       "author": "Craig Macnaughton",
       "category": "Text",
