@@ -1,0 +1,16 @@
+{
+  "scripts": [
+    {
+      "id": "text-box-exporter",
+      "name": "Text Box Exporter",
+      "description": "Exports all the text boxes in reading order, left-to-right, top-to-bottom, to an alert prompt for easy cut/paste. Designed for kidlit/picture book dummies.",
+      "version": "1.0.0",
+      "author": "Craig Macnaughton",
+      "category": "Text",
+      "image": "previews/text-box-exporter.webp",
+      "url": "https://ywww.craigmacnaughton.com",
+      "email": "puppetrobotboy+github@gmail.com",
+      "download_url": "https://raw.githubusercontent.com/fleetloop/repo/main/text-box-exporter.js"
+    }
+  ]
+}
